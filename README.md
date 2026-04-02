@@ -1,4 +1,4 @@
-# 🚀 Olist E-commerce Data Pipeline with Airflow & PostgreSQL
+# Olist E-commerce Data Pipeline with Airflow & PostgreSQL
 
 ## 📌 Overview
 
