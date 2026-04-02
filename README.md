@@ -140,7 +140,7 @@ The dashboard includes:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ernest-oppong/olist-ecommerce-data-pipeline.git
 cd olist-ecommerce-data-pipeline
 ```
 
